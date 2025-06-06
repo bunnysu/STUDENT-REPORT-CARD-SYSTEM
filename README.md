@@ -1,0 +1,3 @@
+-This project is about the students’ report card system used by both teachers and students for university level
+-Admin can perform typical report card related functions like adding a new student record
+-On the other hand, other people can just view the record by entering roll number
