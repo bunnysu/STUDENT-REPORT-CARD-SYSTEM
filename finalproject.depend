@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677412170 source:c:\users\asus\documents\c++ object oriented programming\final project c++\finalproject\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
